@@ -34,6 +34,7 @@ Date=2018-09-02
 ; The bib-number field can be left empty.
 ; 101;101;Libor Forst
 ; 0;;Libor Forst
+1234;1234;Peter Dobra
 
 [Results]
 ; If results upload used
