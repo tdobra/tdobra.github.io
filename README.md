@@ -1,4 +1,4 @@
 # tdobra.github.io
 My GitHub pages
 
-[TCTemplate](tctemplate/index.html) - TrailO timed control map cards generator
+[TCTemplate](https://tdobra.github.io/tctemplate/index.html) - TrailO timed control map cards generator
